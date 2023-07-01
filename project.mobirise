@@ -90,7 +90,7 @@
         "url": "https://fonts.googleapis.com/css?family=Satisfy:400"
       }
     ],
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": false,
