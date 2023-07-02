@@ -1285,7 +1285,7 @@ a {
 }
 .cid-tIM2tbeqeg {
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-tIM2tbeqeg .mbr-fallback-image.disabled {
@@ -1361,6 +1361,9 @@ a {
   .cid-tIM5yVupZ5 .card-wrapper {
     padding: 1rem;
   }
+}
+.cid-tIM5yVupZ5 P {
+  text-align: left;
 }
 .cid-tIM81qJ7bN {
   padding-top: 2rem;
