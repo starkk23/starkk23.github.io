@@ -1400,6 +1400,41 @@ a {
   font-size: 2rem;
   width: 1.6rem;
 }
+.cid-tIYnkGGNiV {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tIYnkGGNiV .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tIYnkGGNiV .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tIYnkGGNiV ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tIYnkGGNiV li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tIYnkGGNiV ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-tIMffflias {
   padding-top: 2rem;
   padding-bottom: 4rem;
@@ -1768,152 +1803,10 @@ a {
 .cid-tIMdU9GUnI .link-wrap {
   color: #ffffff;
 }
-.cid-tGO77aEwrs {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-tGO77aEwrs .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tGO77aEwrs .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tGNRU07YNK {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-tGNRU07YNK .carousel {
-    min-height: 800px;
-  }
-  .cid-tGNRU07YNK .carousel img {
-    max-height: 800px;
-    object-fit: contain;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-tGNRU07YNK .carousel {
-    min-height: 520px;
-  }
-  .cid-tGNRU07YNK .carousel img {
-    max-height: 520px;
-    object-fit: contain;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tGNRU07YNK .carousel {
-    min-height: 440px;
-  }
-  .cid-tGNRU07YNK .carousel img {
-    max-height: 440px;
-    object-fit: contain;
-  }
-  .cid-tGNRU07YNK .container .carousel-control {
-    margin-bottom: 0;
-  }
-  .cid-tGNRU07YNK .content-slider-wrap {
-    width: 100% !important;
-  }
-}
-.cid-tGNRU07YNK .carousel,
-.cid-tGNRU07YNK .carousel-inner {
-  display: flex;
-  align-items: center;
-}
-.cid-tGNRU07YNK .item-wrapper {
-  width: 100%;
-}
-.cid-tGNRU07YNK .carousel-caption {
-  bottom: 40px;
-}
-.cid-tGNRU07YNK .carousel-control:hover {
-  background: #1b1b1b;
-  color: #fff;
-  opacity: 1;
-}
-.cid-tGNRU07YNK .mobi-mbri-arrow-next {
-  margin-left: 5px;
-}
-.cid-tGNRU07YNK .mobi-mbri-arrow-prev {
-  margin-right: 5px;
-}
-.cid-tGNRU07YNK .container .carousel-indicators {
-  margin-bottom: 3px;
-}
-.cid-tGNRU07YNK .carousel-control {
-  top: 50%;
-  width: 60px;
-  height: 60px;
-  margin-top: -1.5rem;
-  font-size: 22px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
-  border-radius: 50%;
-  transition: all 0.3s;
-}
-.cid-tGNRU07YNK .carousel-control.carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-tGNRU07YNK .carousel-control.carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-@media (max-width: 767px) {
-  .cid-tGNRU07YNK .carousel-control {
-    top: auto;
-    bottom: 1rem;
-  }
-}
-.cid-tGNRU07YNK .carousel-indicators {
-  position: absolute;
-  bottom: 0;
-  margin-bottom: 1.5rem !important;
-}
-.cid-tGNRU07YNK .carousel-indicators li {
-  max-width: 15px;
-  height: 15px;
-  width: 15px;
-  max-height: 15px;
-  margin: 3px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
-  border-radius: 50%;
-  opacity: 0.5;
-  transition: all 0.3s;
-}
-.cid-tGNRU07YNK .carousel-indicators li.active,
-.cid-tGNRU07YNK .carousel-indicators li:hover {
-  opacity: 0.9;
-}
-.cid-tGNRU07YNK .carousel-indicators li::after,
-.cid-tGNRU07YNK .carousel-indicators li::before {
-  content: none;
-}
-.cid-tGNRU07YNK .carousel-indicators.ie-fix {
-  left: 50%;
-  display: block;
-  width: 60%;
-  margin-left: -30%;
-  text-align: center;
-}
-@media (max-width: 768px) {
-  .cid-tGNRU07YNK .carousel-indicators {
-    display: none !important;
-  }
-}
 .cid-tGNTQEcckO {
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-1920x1278.webp");
+  background-color: #fafafa;
 }
 .cid-tGNTQEcckO .mbr-fallback-image.disabled {
   display: none;
@@ -1949,7 +1842,7 @@ a {
   }
 }
 .cid-tGNTQEcckO .mbr-section-title {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-tGNTQEcckO .link {
   color: #ffffff;
